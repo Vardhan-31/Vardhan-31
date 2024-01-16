@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chandra Vardhan</h1>
 <h3 align="center">Full Stack Engineer | Building Scalable and Responsive Web Applications</h3>
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
