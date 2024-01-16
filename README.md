@@ -22,7 +22,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=idlypakoda&show_icons=true&locale=en&layout=compact" alt="idlypakoda" /></p>
+<p>&nbsp&nbsp&nbsp&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=idlypakoda&show_icons=true&locale=en&layout=compact" alt="idlypakoda" /></p>
 <br>
 <p>&nbsp&nbsp&nbsp&nbsp&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=idlypakoda&show_icons=true&locale=en" alt="idlypakoda" /></p>
 <br>
