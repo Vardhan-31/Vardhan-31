@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sri Chandra Vardhan</h1>
+<h1 align="center">Hi 👋,  Chandra </h1>
 <h3 align="center">A talented Python developer from India, with a strong focus on backend technologies.</h3>
 
 - 🔭 I’m currently working on **Payment Receipt**
