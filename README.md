@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋,  Chandra </h1>
 <h3 align="center">A talented Python developer from India, with a strong focus on backend technologies.</h3>
 
-- 🔭 I’m currently working on **Payment Receipt**
-
 - 📫 How to reach me **cvtadimeti31@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
